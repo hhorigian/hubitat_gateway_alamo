@@ -1,5 +1,5 @@
 /**
- *  ControlArt Piso Alamo - GW 
+ *  Driver Hubitat -  Piso Alamo - GW 
  *
  *  Copyright 2025 VH 
  *
@@ -14,7 +14,7 @@
  *
  *
  *            --- Driver para GW Piso Alamo
- *           v.1  26/03/2025 - BETA. 
+ *           v.1  26/03/2025 - BETA 1. 
 */
 
 metadata {
