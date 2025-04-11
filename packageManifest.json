@@ -1,0 +1,17 @@
+{
+ "packageName":"Álamo V3 Gateway - HTTP",
+ "author":"VH",
+ "version":"1.0",
+ "minimumHEVersion":"2.4.1.151",
+ "dateReleased":"2025-04-11",
+ "releaseNotes":"First version pushed to HPM",
+ "documentationLink":"https://github.com/hhorigian/hubitat_gateway_alamo",
+ "drivers": [
+  {
+     "id":"2f317d3f-6247-4071-be31-ef61d69c34b8",
+     "name":"Álamo V3 Gateway",
+     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_gateway_alamo/refs/heads/main/Driver_TRATO_Alamo_Gateway.groovy",
+     "required":true
+  }
+  ]
+}
